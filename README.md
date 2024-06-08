@@ -4,7 +4,9 @@
 
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning JS and WEB developing
-- 📫 How to reach me kurochkina.elizavetaa@gmail.com
+- 📫 How to reach me:
+  - e-mail: kurochkina.e.a@rambler.ru
+  - telegram: @elizavetaakur
 - 🌏 I speak Russian fluently and my English level is B2
 
 <h3>Languages</h3>
