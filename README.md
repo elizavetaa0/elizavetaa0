@@ -1,13 +1,12 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Elizaveta</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student</h3>
 
 - 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning JS and WEB developing
+- 🌱 I’m currently learning JS, React and WEB developing
 - 📫 How to reach me:
   - e-mail: kurochkina.e.a@rambler.ru
   - telegram: @elizavetaakur
-- 🌏 I speak Russian fluently and my English level is B2
+- 🌏 I speak Russian fluently and English
 
 <h3>Languages</h3>
 <div style="display: flex; gap: 5px;">
