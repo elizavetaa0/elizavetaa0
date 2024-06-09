@@ -1,10 +1,15 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Elizaveta</a> 
+<h1 align="center">Привет, Меня зовут <a href="https://daniilshat.ru/" target="_blank">Елизавета</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-- 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning JS, React and WEB developing
-- 📫 How to reach me: kurochkina.e.a@rambler.ru
-- 🌏 I speak Russian fluently and English
+<h2 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Elizaveta</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+
+| Обо мне                                                   | About me                                                   |
+| --------------------------------------------------------- | ---------------------------------------------------------- |
+| 👀 Интересуюсь Frontend-разработкой                       | 👀 I’m interested in frontend developing
+| 🌱 Изучаю JS, React и веб-разработку                      | 🌱 I’m currently learning JS, React and WEB developing
+| 📫 Как со мной связаться: kurochkina.e.a@rambler.ru       | 📫 How to reach me: kurochkina.e.a@rambler.ru
+| 🌏 Мои языки: Русский и Английский                        | 🌏 I speak Russian fluently and English                      
 
 <h3>Languages</h3>
 <div style="display: flex; gap: 5px;">
@@ -15,14 +20,14 @@
   
 </div>
 
-<h3>Frameworks, Platforms and Libraries</h3>
+<h3>Используемые фреймворки, платформы и библиотеки / My frameworks, platforms and libraries</h3>
 <div style="display: flex; gap: 5px;">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
 </div>
 
-<h3>Forums I read</h3>
+<h3>Изучаемые форумы / Forums I read</h3>
 <div style="display: flex; gap: 5px;">
   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
@@ -31,7 +36,7 @@
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
 </div>
 
-<h3>Tools</h3>
+<h3>Инструменты / Tools</h3>
 <div style="display: flex; gap: 5px;">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
