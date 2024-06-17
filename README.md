@@ -11,7 +11,7 @@
 | 📫 Как со мной связаться: kurochkina.e.a@rambler.ru       | 📫 How to reach me: kurochkina.e.a@rambler.ru
 | 🌏 Мои языки: Русский и Английский                        | 🌏 I speak Russian fluently and English                      
 
-<h3>Languages</h3>
+<h3>Стек/Stack</h3>
 <div style="display: flex; gap: 5px;">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
