@@ -1,4 +1,4 @@
-<h1 align="center">Привет, Меня зовут <a href="https://daniilshat.ru/" target="_blank">Елизавета</a> 
+![image](https://github.com/elizavetaa0/elizavetaa0/assets/139125850/c4b3b38a-e143-43c7-b15a-e7741bcd1651)<h1 align="center">Привет, Меня зовут <a href="https://daniilshat.ru/" target="_blank">Елизавета</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Elizaveta</a> 
@@ -8,7 +8,7 @@
 | --------------------------------------------------------- | ---------------------------------------------------------- |
 | 👀 Интересуюсь Frontend-разработкой                       | 👀 I’m interested in frontend developing
 | 🌱 Изучаю JS, React и веб-разработку                      | 🌱 I’m currently learning JS, React and WEB developing
-| 📫 Как со мной связаться: kurochkina.e.a@rambler.ru       | 📫 How to reach me: kurochkina.e.a@rambler.ru
+| 📫 Как со мной связаться: telegram @elizavetaakur   | 📫 How to reach me: telegram @elizavetaakur
 | 🌏 Мои языки: Русский и Английский                        | 🌏 I speak Russian fluently and English                      
 
 <h3>Стек/Stack</h3>
